@@ -2,7 +2,6 @@
   "name": "node",
   "version": "1.0.0",
   "description": "learning more about node",
-  "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
   },
